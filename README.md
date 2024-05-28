@@ -17,3 +17,16 @@ Players: Assign "X" and "O" to two players.
 <br>
 Display Board: Show the current state of the board.
 <br>
+Player Input: Prompt the current player to enter their move.
+<br>
+Update Board: Update the game boardwith the player's move.
+<br>
+Check for Win: Check if the current player has won.
+<br>
+Check for Draw: Determine if the game is a draw.
+<br>
+Switch Players: Alternate turns between "X" and "O" players.
+<br>
+Display Result:Show me result of the game (win,draw, or ongoing).
+<br>
+Play Again: Ask if the players want to play another game.
